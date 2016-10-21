@@ -1,4 +1,4 @@
-package com.fannie.day1;
+package com.fannie;
 
 public class HelloWorld {
 	public static void main(String[] args) {
